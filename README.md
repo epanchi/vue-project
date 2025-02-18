@@ -28,6 +28,9 @@ npm run dev
 npm run build
 ```
 
-Project VUE
+#Project VUE reference:
+
 https://www.youtube.com/watch?v=VeNfHj6MhgA&t=104s
+
+#Github reference Traversy Media
 -- https://github.com/bradtraversy/vue-crash-2024
